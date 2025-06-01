@@ -15,7 +15,7 @@
 - [x] Week 4 (May 1-7)
 - [x] Week 5 (May 8-14)
 - [x] Week 6 (May 15-21)
-- [ ] Week 7 (May 22-28)
+- [x] Week 7 (May 22-28)
 - [ ] Week 8 (May 29-Jun 4)
 - [ ] Week 9 (Jun 5-11)
 
