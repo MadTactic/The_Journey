@@ -9,9 +9,9 @@ Welcome! This repository documents my path from IT foundations to advanced cyber
 
 **Week Progress:**
 - [x] Week 1 (Jun 10-16)
-- [ ] Week 2 (Jun 17-23) 
-- [ ] Week 3 (Jun 24-30)
-- [ ] Week 4 (Jul 1-7)
+- [x] Week 2 (Jun 17-23) 
+- [x] Week 3 (Jun 24-30)
+- [x] Week 4 (Jul 1-7)
 - [ ] Week 5 (Jul 8-14)
 - [ ] Week 6 (Jul 15-21)
 - [ ] Week 7 (Jul 22-28)
