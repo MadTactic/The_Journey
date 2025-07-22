@@ -12,9 +12,9 @@ Welcome! This repository documents my path from IT foundations to advanced cyber
 - [x] Week 2 (Jun 17-23) 
 - [x] Week 3 (Jun 24-30)
 - [x] Week 4 (Jul 1-7)
-- [ ] Week 5 (Jul 8-14)
-- [ ] Week 6 (Jul 15-21)
-- [ ] Week 7 (Jul 22-28)
+- [x] Week 5 (Jul 8-14)
+- [x] Week 6 (Jul 15-21)
+- [x] Week 7 (Jul 22-28)
 - [ ] Week 8 (Jul 29-Aug 4)
 - [ ] Week 9 (Aug 5-11)
 
