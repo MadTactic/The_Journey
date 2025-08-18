@@ -31,8 +31,8 @@
 - [x] Week 5 (Jul 8-14)
 - [x] Week 6 (Jul 15-21)
 - [x] Week 7 (Jul 22-28)
-- [ ] Week 8 (Jul 29-Aug 4)
-- [ ] Week 9 (Aug 5-11)
+- [x] Week 8 (Jul 29-Aug 4)
+- [x] Week 9 (Aug 5-11)
 
 ---
 
@@ -40,8 +40,8 @@
 **Timeline: August 10th - October 10th (Months 5-6)**
 
 **Week Progress:**
-- [ ] Week 1 (Aug 10-16)
-- [ ] Week 2 (Aug 17-23)
+- [x] Week 1 (Aug 10-16)
+- [x] Week 2 (Aug 17-23)
 - [ ] Week 3 (Aug 24-30)
 - [ ] Week 4 (Aug 31-Sep 6)
 - [ ] Week 5 (Sep 7-13)

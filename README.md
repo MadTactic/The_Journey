@@ -4,19 +4,19 @@ Welcome! This repository documents my path from IT foundations to advanced cyber
 
 ---
 
-### 🌐 **Phase 2: Network+**
-**Timeline: June 10th - August 10th (Months 3-4)**
+### 🛡️ **Phase 3: Security+** 
+**Timeline: August 10th - October 10th (Months 5-6)**
 
 **Week Progress:**
-- [x] Week 1 (Jun 10-16)
-- [x] Week 2 (Jun 17-23) 
-- [x] Week 3 (Jun 24-30)
-- [x] Week 4 (Jul 1-7)
-- [x] Week 5 (Jul 8-14)
-- [x] Week 6 (Jul 15-21)
-- [ ] Week 7 (Jul 22-28)
-- [ ] Week 8 (Jul 29-Aug 4)
-- [ ] Week 9 (Aug 5-11)
+- [x] Week 1 (Aug 10-16)
+- [x] Week 2 (Aug 17-23)
+- [ ] Week 3 (Aug 24-30)
+- [ ] Week 4 (Aug 31-Sep 6)
+- [ ] Week 5 (Sep 7-13)
+- [ ] Week 6 (Sep 14-20)
+- [ ] Week 7 (Sep 21-27)
+- [ ] Week 8 (Sep 28-Oct 4)
+- [ ] Week 9 (Oct 5-11)
 
 ---
 
