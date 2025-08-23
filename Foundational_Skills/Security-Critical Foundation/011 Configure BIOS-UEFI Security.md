@@ -1,0 +1,65 @@
+# 🧪 Lab: 011 Configure BIOS/UEFI Security
+
+## 🎯 Lab Overview
+
+**Objective:** Security hardening at firmware level - essential for enterprise security
+
+**Skills Practiced:**
+- Add admin password/Hard disk password
+- Enable the TPM
+- Enable chassis intrusion detection to show an alert during POST when an intrusion is detected
+
+**CertMaster Environment:** Simulation/Virtual lab details
+
+---
+## 📝 Implementation Steps
+
+### Step 1: Restart the computer in the BIOS
+
+- Press **F2** while the computer is booting.
+### Step 2: Configure the following security settings
+
+- Add an admin password used to make changes to BIOS settings
+	- Password: **t67xab1**
+- Add a password that prevents hard disk access even when the hard disk is moved to another system.
+	- Password: **dog8b0b** (0 is a zero)
+- Enable the TPM
+- Enable chassis intrusion detection to show an alert during POST when an intrusion is detected
+- Save the changes
+
+### Step 3: Restart the computer to verify the changes
+
+
+---
+## 📚 Key Takeaways
+
+**Main Concepts Learned:**
+
+1. BIOS/UEFI security settings form the first line of defense against unauthorized system access—securing firmware prevents attackers from bypassing OS-level security.
+    
+2. Setting up admin and hard-disk passwords strengthens protection of both configuration integrity and data confidentiality, even if hardware is moved.
+    
+3. TPM (Trusted Platform Module) provides a foundation for encryption, secure boot, and identity verification, which are critical in enterprise environments.
+    
+4. Chassis intrusion detection adds a layer of physical security awareness, alerting administrators if the system case has been tampered with.
+    
+
+**Real-World Application:**
+
+- These configurations are vital in enterprise security hardening, especially for preventing data theft, maintaining compliance, and ensuring device integrity.
+    
+- IT administrators regularly apply BIOS/UEFI protections in managed environments to guard against insider threats, physical attacks, and advanced malware that exploits firmware-level weaknesses.
+
+## 🖼️ Screenshots
+
+![[Lab011_01.png]]
+
+![[Lab011_02.png]]
+
+![[Lab011_03.png]]
+
+![[Lab011_04.png]]
+
+![[Lab011_05.png]]
+
+![[Lab011_06.png]]
