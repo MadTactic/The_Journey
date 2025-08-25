@@ -1,6 +1,6 @@
-# 🚀 Foundational Skills Lab Documentation
+# 🧱 Foundational Skills Lab Documentation
 
-I have selected 19 hands-on labs from CertMaster Learn A+ Core 1 & 2 that demonstrate industry-specific skills. This directory contains screenshots as well as directions for completing each specific task.
+I have selected 18 hands-on labs from CertMaster Learn A+ Core 1 & 2 that demonstrate industry-specific skills. This directory contains screenshots as well as directions for completing each specific task.
 
 ## 📂 Lab Categories
 
