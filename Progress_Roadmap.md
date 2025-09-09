@@ -42,9 +42,9 @@
 **Week Progress:**
 - [x] Week 1 (Aug 10-16)
 - [x] Week 2 (Aug 17-23)
-- [ ] Week 3 (Aug 24-30)
-- [ ] Week 4 (Aug 31-Sep 6)
-- [ ] Week 5 (Sep 7-13)
+- [x] Week 3 (Aug 24-30)
+- [x] Week 4 (Aug 31-Sep 6)
+- [x] Week 5 (Sep 7-13)
 - [ ] Week 6 (Sep 14-20)
 - [ ] Week 7 (Sep 21-27)
 - [ ] Week 8 (Sep 28-Oct 4)
